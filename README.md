@@ -3,7 +3,7 @@
 💻 Desenvolvedor de Software e Jogos  
 🎮 Focado em Educação, Games e Tecnologia  
 🤖 Interessado em Inteligência Artificial  
-📚 Formação em Matemática aplicada à tecnologia  
+📚 Formação em Matemática  
 
 ---
 
@@ -34,8 +34,8 @@ Busco criar soluções que utilizem tecnologia como ferramenta de aprendizado.
 
 ## 🧩 Projetos
 
-🔹 Jogo desenvolvido na Unity  
-🔹 Desenvolvimento de sites (HTML/CSS)  
+🔹 Jogos desenvolvidos na Unity  
+🔹 Desenvolvimento de sites  
 🔹 Sistemas com lógica de programação  
 🔹 Projetos de Inteligência Artificial  
 🔹 Trabalhos acadêmicos voltados à tecnologia  
